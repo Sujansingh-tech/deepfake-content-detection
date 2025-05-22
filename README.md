@@ -175,3 +175,5 @@ Any kind of enhancement or contribution is welcomed. You can contribute your com
 | CViT          | https://github.com/erprogs/CViT                                                                                  | 2021         |
 | Boken         | https://github.com/beibuwandeluori/DeeperForensicsChallengeSolution                                              | 2020         |
 | GANimageDetection | [GANimageDetection](https://github.com/grip-unina/GANimageDetection) | [License](https://github.com/grip-unina/GANimageDetection/blob/main/LICENSE.md) |
+#   d e e p f a k e - c o n t e n t - d e t e c t i o n  
+ 
