@@ -8,7 +8,7 @@ To add your custom model to the DeepSafe platform for deepfake detection, follow
 First, clone the DeepSafe repository from GitHub:
 
 ```bash
-git clone https://github.com/siddharthksah/DeepSafe
+git clone https://github.com/Sujansingh-tech/deepfake-content-detection
 ```
 
 ## Step 2: Add Your Model Folder

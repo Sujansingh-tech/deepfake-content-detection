@@ -1079,9 +1079,9 @@ if add_radio == "About":
     st.info(
         "This an open source project and you are welcome to **contribute** your "
         "comments, questions, resources and apps as "
-        "[issues](https://github.com/siddharthksah/DeepSafe/issues) of or "
-        "[pull requests](https://github.com/siddharthksah/DeepSafe/pulls) "
-        "to the [source code](https://github.com/siddharthksah/DeepSafe). "
+        "[issues](https://github.com/Sujansingh-tech/deepfake-content-detection/issues) of or "
+        "[pull requests](https://github.com/Sujansingh-tech/deepfake-content-detection/pulls) "
+        "to the [source code](https://github.com/Sujansingh-tech/deepfake-content-detection). "
     )
     
 
