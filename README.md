@@ -7,13 +7,13 @@ DeepSafe is a Streamlit-based web application for DeepFake detection, offering a
 
 > **Heads-up**  
 > This public repo tracks **v1**. The commercial branch (🎯 higher accuracy, API-first) is private.  
-> **Need production-grade detection?** [Request a demo](mailto:siddharth123sk@gmail.com?subject=DeepSafe%20Enterprise%20Demo)
+> **Need production-grade detection?** [Request a demo](mailto:sujan00012345@gmail.com?subject=DeepSafe%20Enterprise%20Demo)
 
 ---
 
 ## WebApp
 
-[Live here](https://deepsafe.disconinja.duckdns.org/) (Limited access, for full access please [contact me](mailto:siddharth123sk@gmail.com)).
+[Live here](https://deepsafe.disconinja.duckdns.org/) (Limited access, for full access please [contact me](mailto:sujan00012345@gmail.com)).
 
 ## Table of Contents
 

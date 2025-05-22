@@ -2,7 +2,7 @@
 name = "deepsafe"
 version = "0.1.0"
 description = "Open source deepfake detection"
-authors = ["Siddharth Kumar <siddharth123sk@gmail.com>"]
+authors = ["Siddharth Kumar <sujan00012345@gmail.com>"]
 license = "Dual Licenses"
 
 [tool.poetry.dependencies]
