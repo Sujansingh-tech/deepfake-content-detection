@@ -58,7 +58,7 @@ DeepSafe is a Streamlit-based web application for DeepFake detection, offering a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/siddharthksah/DeepSafe
+    git clone https://github.com/sSujansingh-tech/DeepSafe
     cd DeepSafe
     ```
 2. Create a conda environment:
@@ -151,7 +151,7 @@ DeepSafe acts as a platform where newer models can be incorporated into the app.
 
 ## Contributing
 
-Any kind of enhancement or contribution is welcomed. You can contribute your comments, questions, resources, and apps as [issues](https://github.com/siddharthksah/DeepSafe/issues) or [pull requests](https://github.com/siddharthksah/DeepSafe/pulls) to the [source code](https://github.com/siddharthksah/DeepSafe).
+Any kind of enhancement or contribution is welcomed. You can contribute your comments, questions, resources, and apps as [issues](https://github.com/Sujansingh-tech/DeepSafe/issues) or [pull requests](https://github.com/Sujansingh-tech/DeepSafe/pulls) to the [source code](https://github.com/Sujansingh-tech/DeepSafe).
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -175,5 +175,6 @@ Any kind of enhancement or contribution is welcomed. You can contribute your com
 | CViT          | https://github.com/erprogs/CViT                                                                                  | 2021         |
 | Boken         | https://github.com/beibuwandeluori/DeeperForensicsChallengeSolution                                              | 2020         |
 | GANimageDetection | [GANimageDetection](https://github.com/grip-unina/GANimageDetection) | [License](https://github.com/grip-unina/GANimageDetection/blob/main/LICENSE.md) |
-#   d e e p f a k e - c o n t e n t - d e t e c t i o n  
+#   d e e p f a k e - c o n t e n t - d e t e c t i o n 
+ 
  
