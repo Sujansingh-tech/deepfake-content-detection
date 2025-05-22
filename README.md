@@ -13,7 +13,7 @@ DeepSafe is a Streamlit-based web application for DeepFake detection, offering a
 
 ## WebApp
 
-[Live here](https://deepsafe.disconinja.duckdns.org/) (Limited access, for full access please [contact me](mailto:sujan00012345@gmail.com)).
+[Live here](#) (Limited access, for full access please [contact me](mailto:sujan00012345@gmail.com)).
 
 ## Table of Contents
 
