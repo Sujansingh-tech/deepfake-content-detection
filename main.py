@@ -1,5 +1,5 @@
-# @author Siddharth
-# @website https://siddharthksah.github.io/
+# @author Sujan Singh
+# @website https://Sujansingh-tech.github.io/
 import streamlit as st
 
 # favicon and page configs
