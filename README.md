@@ -58,7 +58,7 @@ DeepSafe is a Streamlit-based web application for DeepFake detection, offering a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sSujansingh-tech/DeepSafe
+    git clone https://github.com/Sujansingh-tech/DeepSafe
     cd DeepSafe
     ```
 2. Create a conda environment:
